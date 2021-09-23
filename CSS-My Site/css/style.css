@@ -1,7 +1,12 @@
+* {
+    background-color: purple;
+}
+
 body {
     margin: 0;
     color: #283331;
     text-align: center;
+    background-color: purple;
     font-family: 'Montserrat',sans-serif;
     
 }
